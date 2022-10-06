@@ -1,0 +1,9 @@
+      body {
+        background-color: azure;
+      }
+
+      * {
+        color: #000;
+        text-transform: uppercase;
+        font-style: italic;
+      }
